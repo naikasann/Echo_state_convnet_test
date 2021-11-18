@@ -19,6 +19,6 @@ CNNの全結合層部分をtensorflow addonsのecho state networkを用いて学
 4. [米村 祥裕, 香取 勇一:"畳み込みレザバー計算による画像認識", 第34回人工知能学会全国大会論文集, sesID4Rin1-83, 2020.](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_4Rin183/_pdf/-char/ja)
 5. [python : Tensorflowでエコー状態ネットワークを作成するにはどうすればよいですか？](https://www.fixes.pub/program/318984.html)
 
-6. [TensorFlow/Keras] 好きな構造のRNNを組み立てるまでの道のり - Qiita](https://qiita.com/everylittle/items/c088564d53cdfcde92cc)
+6. [[TensorFlow/Keras] 好きな構造のRNNを組み立てるまでの道のり - Qiita](https://qiita.com/everylittle/items/c088564d53cdfcde92cc)
 7. [初心者のRNN(LSTM) | Kerasで試してみる - Qiita](https://qiita.com/sasayabaku/items/b7872a3b8acc7d6261bf)
 8. [【深層学習】CNNとRNNを組み合わせてみた - Qiita](https://qiita.com/God_KonaBanana/items/a6ee73cf0110c044815b)
